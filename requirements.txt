@@ -1,0 +1,5 @@
+numpy>=1.22
+matplotlib>=3.5
+pillow>=9.0
+pytest>=7.0
+# torch is only needed for train.py and the NumPy-vs-PyTorch test
